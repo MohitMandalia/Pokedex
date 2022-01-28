@@ -7,5 +7,7 @@
 <img src="https://user-images.githubusercontent.com/36087806/151614484-a48c93c7-330f-44b1-9684-6d22a4d3b3bf.png" height=30% width=30%></img>
 </p>
 
-## Download
-Download [APK](https://github.com/MohitMandalia/Pokedex/releases/download/v1.0-alpha/pokedex.apk) File
+<h1 align="center"> Download </h1>
+<p align="center">
+  Download <A href="https://github.com/MohitMandalia/Pokedex/releases/download/v1.0-alpha/pokedex.apk">APK</a> File
+</p>
