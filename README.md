@@ -8,4 +8,4 @@
 </p>
 
 ## Download
-Download APK File
+Download [APK](https://github.com/MohitMandalia/Pokedex/releases/download/v1.0-alpha/pokedex.apk) File
