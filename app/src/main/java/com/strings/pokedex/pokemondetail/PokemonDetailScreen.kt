@@ -191,7 +191,7 @@ fun PokemonDetailSection(
     ) {
 
         Text(
-            text = "${pokemonInfo.name.capitalize(Locale.ROOT)}",
+            text = pokemonInfo.name.capitalize(androidx.compose.ui.text.intl.Locale.current),
             fontWeight = FontWeight.Bold,
             fontSize = 30.sp,
             textAlign = TextAlign.Center,
@@ -273,11 +273,11 @@ fun PokemonDetailDataItem(
     dataUnit: String,
     modifier: Modifier = Modifier
 ) {
-    var textUnit = ""
-    if(dataUnit == "m"){
-        textUnit = "Height"
+
+    val textUnit = if(dataUnit == "m"){
+        "Height"
     }else{
-        textUnit = "Weight"
+        "Weight"
     }
 
     Column(
