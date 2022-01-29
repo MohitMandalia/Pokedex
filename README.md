@@ -9,5 +9,5 @@
 
 <h1 align="center"> Download </h1>
 <p align="center">
-  Download <A href="https://github.com/MohitMandalia/Pokedex/releases/download/v1.0-alpha/pokedex.apk">APK</a> File
+  Download <a href="https://github.com/MohitMandalia/Pokedex/releases/download/v1.0-alpha/pokedex-v1.0-alpha.apk">APK</a> File
 </p>
